@@ -1,9 +1,10 @@
 {
-  "recipes": [
+  "users": [
     {
-      "name": "Paella",
-      "description": "Spanish recipe, tipical from Valencia, based on rice.",
-      "id": 1
+      "id": 1,
+      "name": "Daniel Lopez",
+	  "email": "2005danielus.ml",
+      "admin": true
     }
   ]
 }
